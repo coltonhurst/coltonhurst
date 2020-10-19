@@ -1,2 +1,1 @@
-- [Website](https://coltonhurst.com)
-- [LinkedIn](https://www.linkedin.com/in/coltondhurst/)
+
