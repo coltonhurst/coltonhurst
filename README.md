@@ -2,7 +2,7 @@
 
 💻 website: [coltonhurst.com](https://www.coltonhurst.com)
 
-🏢 working at: [bitwarden](https://github.com/bitwarden)
+🏢 working at: [Bitwarden](https://github.com/bitwarden)
 
 ### Personal Projects
 
