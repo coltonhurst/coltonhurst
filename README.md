@@ -6,5 +6,4 @@
 
 ### Personal Projects
 
-- 🛠️ unannounced project
 - [Stoic Shapes](https://github.com/coltonhurst/stoic-shapes), a game to teach open source
