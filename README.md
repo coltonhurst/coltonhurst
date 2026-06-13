@@ -8,4 +8,3 @@
 
 - [Stoic Shapes](https://github.com/coltonhurst/stoic-shapes): a 2d game for teaching open source
 - [coltonhurst.com](https://github.com/coltonhurst/coltonhurst.com): my website
-- [GoatTodo SDK](https://github.com/coltonhurst/goattodo): a Rust SDK for todo apps (paused)
